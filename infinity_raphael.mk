@@ -20,6 +20,8 @@ INFINITY_BUILD_TYPE := OFFICIAL
 TARGET_BOOT_ANIMATION_RES := 1080
 INFINITY_MAINTAINER := pawelik001
 TARGET_SUPPORTS_BLUR := true
+TARGET_HAS_UDFPS := true
+TARGET_SUPPORTS_TOUCHGESTURES := true
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := infinity_raphael
