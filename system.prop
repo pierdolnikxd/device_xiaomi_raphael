@@ -1,3 +1,9 @@
+# Infinity-X AboutPhone
+ro.infinity.soc=Snapdragon 855
+ro.infinity.battery=4000mAh
+ro.infinity.display=1080x2340, 60Hz
+ro.infinity.camera=48 MP + 8 MP, 20 MP
+
 # Camera
 persist.vendor.camera.privapp.list=com.android.camera
 log.tag.CHIUSECASE=ERROR
