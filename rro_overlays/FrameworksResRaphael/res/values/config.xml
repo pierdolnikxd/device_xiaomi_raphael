@@ -622,4 +622,7 @@
 
     <!-- Default component for QR code scanner -->
     <string name="config_defaultQrCodeComponent">com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity</string>
+
+    <!-- Whether device supports in-display fingerprint -->
+    <bool name="config_supportsUdfps">true</bool>
 </resources>
