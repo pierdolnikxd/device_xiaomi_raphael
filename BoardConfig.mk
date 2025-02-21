@@ -7,6 +7,9 @@
 DEVICE_PATH := device/xiaomi/raphael
 KERNEL_PATH := device/xiaomi/raphael-kernel
 
+BUILD_BROKEN_ELF_PREBUILT_PRODUCT_COPY_FILES := true
+BUILD_BROKEN_DUP_RULES := true
+
 # ANT+
 BOARD_ANT_WIRELESS_DEVICE := "qualcomm-hidl"
 
